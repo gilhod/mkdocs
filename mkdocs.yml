@@ -2,8 +2,4 @@ site_name: My Docs
 
 nav:
   - House: 'index.md'
-  - 'gil.md'
-
-
-plugins:
-  - multirepo
+  - 'john.md'
